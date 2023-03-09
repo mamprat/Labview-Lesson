@@ -1,0 +1,4 @@
+Eng	operator
+Gea	admin
+Mer	admin
+Doy	operator
